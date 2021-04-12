@@ -1,0 +1,22 @@
+.userslist-card {
+  border-radius: 5px;
+  border: 1px solid lightgray;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+  color: #4a4a4a;
+  margin: 10px;
+  padding: 5px;
+}
+
+.userslist-img {
+  height: 100px;
+  margin-right: 10px;
+  width: 100px;
+}
+
+.userslist-btn-group {
+  display: flex;
+}
+
+.userslist-btn-group > * {
+  margin: 2px;
+}
